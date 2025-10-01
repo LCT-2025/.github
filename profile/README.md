@@ -5,4 +5,4 @@
 | Стек: | |
 |---|---|
 | [Frontend](https://github.com/LCT-2025/Frontend) | ![](https://skillicons.dev/icons?i=react,threejs,blender,) |
-| [Backend](https://github.com/LCT-2025/Frontend) | ![](https://skillicons.dev/icons?i=go,docker,postgres) |
+| [Backend](https://github.com/LCT-2025/Backend) | ![](https://skillicons.dev/icons?i=go,docker,postgres) |
